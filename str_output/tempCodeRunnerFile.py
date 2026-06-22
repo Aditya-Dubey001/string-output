@@ -1,0 +1,1 @@
+result1 = chain.invoke({'topic' : 'Anime'})
